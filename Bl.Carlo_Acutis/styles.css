@@ -1,0 +1,35 @@
+
+body {
+    background-color: #e09f3e;
+}
+
+.main{
+    border : 5px solid #335c67;
+    width:35%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: #fff3b0;
+    text-align: center;
+    color: #335c67;
+    margin-bottom: 30px;
+}
+
+h1{    
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;   
+}
+
+.carlo_img {
+    width:300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 3px solid #540b0e;
+}
+
+ul {
+    line-height: 20px;
+    text-align: justify;
+}
