@@ -32,4 +32,5 @@ h1{
 ul {
     line-height: 20px;
     text-align: justify;
+    padding: 0 40px;
 }
